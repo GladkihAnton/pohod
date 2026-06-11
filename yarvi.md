@@ -50,12 +50,18 @@
 ## Видео
 
 <video width="640" controls>
-  <source src="/Users/antongladkih/Documents/july_work/pohod/images/yarvi/vidos.mp4" type="video/mp4">
+  <source src="https://drive.google.com/file/d/17nte-T9itIpoGc3emi1zT5XxFGMr0k1q/view?usp=drive_link" type="video/mp4">
+  Ваш браузер не поддерживает встроенное видео.
+</video>
+
+<video width="640" controls>
+  <source src="https://drive.google.com/file/d/10J8BbjweImWcrrU7lJ3UPIsfk0BYYIG7/view?usp=drive_link" type="video/mp4">
   Ваш браузер не поддерживает встроенное видео.
 </video>
 
 ## Фото
-
+https://drive.google.com/file/d/10J8BbjweImWcrrU7lJ3UPIsfk0BYYIG7/view?usp=drive_link
+https://drive.google.com/file/d/1lcvgWPuVqYijaYv8Fl1xnTCiuABnnZnc/view?usp=drive_link
 ![Деревянный настил](images/yarvi/03-trail-boardwalk.jpg)
 
 ![Лесная тропа](images/yarvi/05-forest-path.jpg)

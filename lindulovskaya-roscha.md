@@ -37,6 +37,13 @@
 - WC у входа, кафе — в пос. Рощино
 - Собак, велосипеды и самокаты — нельзя
 
+## Видео
+
+<video width="640" controls>
+  <source src="https://drive.google.com/file/d/1lcvgWPuVqYijaYv8Fl1xnTCiuABnnZnc/view?usp=drive_link" type="video/mp4">
+  Ваш браузер не поддерживает встроенное видео.
+</video>
+
 ## Фото
 
 ![Лиственницы](images/lindulovskaya-roscha/01-larch-grove.jpg)
