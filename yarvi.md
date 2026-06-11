@@ -49,11 +49,7 @@
 
 ## Видео
 
-<video width="640" controls>
-  <source src="https://drive.google.com/file/d/17nte-T9itIpoGc3emi1zT5XxFGMr0k1q/view?usp=drive_link" type="video/mp4">
-  Ваш браузер не поддерживает встроенное видео.
-</video>
-
+[Ссылка](https://drive.google.com/file/d/17nte-T9itIpoGc3emi1zT5XxFGMr0k1q/view?usp=drive_link)
 
 ## Фото
 
